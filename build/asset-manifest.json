@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d64c519f.css",
+    "main.js": "/static/js/main.31b30480.js",
+    "static/js/453.e8368feb.chunk.js": "/static/js/453.e8368feb.chunk.js",
+    "static/media/RazerF5.svg": "/static/media/RazerF5.6f439136e85234a3168f.svg",
+    "static/media/RazerF5Light.svg": "/static/media/RazerF5Light.d9c4f2ea70beda422301.svg",
+    "static/media/RazerF5Thin.svg": "/static/media/RazerF5Thin.0da954d3ca62aefceb20.svg",
+    "static/media/RazerF5.eot": "/static/media/RazerF5.3dea70c50e65e74bec01.eot",
+    "static/media/RazerF5.ttf": "/static/media/RazerF5.616fbadd41a0bfe3a556.ttf",
+    "static/media/RazerF5Light.eot": "/static/media/RazerF5Light.891b055e9a5c4eecf5a9.eot",
+    "static/media/RazerF5Light.ttf": "/static/media/RazerF5Light.5c9187d0eed54292fd50.ttf",
+    "static/media/RazerF5Thin.eot": "/static/media/RazerF5Thin.335c8bdc3ffed2252de9.eot",
+    "static/media/RazerF5Thin.ttf": "/static/media/RazerF5Thin.c292b9d022b7285829ce.ttf",
+    "static/media/RazerF5Light.woff": "/static/media/RazerF5Light.bf802396575ca562fe03.woff",
+    "static/media/RazerF5.woff": "/static/media/RazerF5.a3e9085dc12d3ec0acec.woff",
+    "static/media/RazerF5Thin.woff": "/static/media/RazerF5Thin.90b817c7afe3a6149033.woff",
+    "static/media/profile_sel_game.svg": "/static/media/profile_sel_game.10973efce4b1687a4b70.svg",
+    "static/media/icon_profiles_game.svg": "/static/media/icon_profiles_game.1d22a509eef05c81c2c0.svg",
+    "static/media/profile_sel_default.svg": "/static/media/profile_sel_default.f4b23f16d211055f4ce6.svg",
+    "static/media/profile_sel_custom.svg": "/static/media/profile_sel_custom.51195c07d6c01a869d33.svg",
+    "static/media/icon_profiles_default.svg": "/static/media/icon_profiles_default.5d9a358cb0128f000c59.svg",
+    "static/media/icon_profiles_custom.svg": "/static/media/icon_profiles_custom.7185b95e698c5eb077ea.svg",
+    "static/media/profile_sel_music.svg": "/static/media/profile_sel_music.daf2a83ec4e05c1e26c2.svg",
+    "static/media/icon_profiles_music.svg": "/static/media/icon_profiles_music.7314b9ce87bbbb4e4615.svg",
+    "static/media/icon_arrow_up.svg": "/static/media/icon_arrow_up.f0349156b07b98aae6d8.svg",
+    "static/media/icon_arrow_down.svg": "/static/media/icon_arrow_down.d980d8048a056f8e8336.svg",
+    "static/media/icon_delete.svg": "/static/media/icon_delete.c863b5a7bed035176b50.svg",
+    "static/media/profile_sel_movie.svg": "/static/media/profile_sel_movie.17abbc402f11ffc6b14e.svg",
+    "static/media/icon_profiles_movie.svg": "/static/media/icon_profiles_movie.accb34ca3cd8203adcc2.svg",
+    "static/media/icon_edit.svg": "/static/media/icon_edit.afbd88e36b46f47a1f7c.svg",
+    "index.html": "/index.html",
+    "static/media/icon_plus.svg": "/static/media/icon_plus.e7e91414e109dadc0a96.svg",
+    "main.d64c519f.css.map": "/static/css/main.d64c519f.css.map",
+    "main.31b30480.js.map": "/static/js/main.31b30480.js.map",
+    "453.e8368feb.chunk.js.map": "/static/js/453.e8368feb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d64c519f.css",
+    "static/js/main.31b30480.js"
+  ]
+}
